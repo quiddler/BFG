@@ -1,0 +1,10 @@
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\BFG.Coding.Exercise.Test.dll
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\BFG.Coding.Exercise.Test.pdb
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.csprojAssemblyReference.cache
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.csproj.CopyComplete
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.dll
+C:\Users\eeasterl\Downloads\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.pdb

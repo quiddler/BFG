@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="toast"></div>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="text-center col" style="border-right: 1px solid black">
+                <h1>Books</h1>
+                <form>
+                    <div class="form-group">
+                        <label for="bookName">Book Title</label>
+                        <input type="text" class="form-control" id="bookName" placeholder="Title">
+                    </div>
+                    <div class="form-group">
+                        <label for="bookAuthor">Author</label>
+                        <input type="text" class="form-control" id="bookAuthor" placeholder="Author">
+                    </div>
+                    <button type="button" class="btn btn-dark" id="bookButton">Add Book to List</button>
+                    <button type="button" class="btn btn-light" id="clearBookButton">Clear Book List</button>
+                </form>
+            </div>
+            <div class="text-center col">
+                <h1>Movies</h1>
+                <form>
+                    <div class="form-group">
+                        <label for="movieName">Movie Title</label>
+                        <input type="text" class="form-control" id="movieName" placeholder="Title">
+                    </div>
+                    <div class="form-group">
+                        <label for="movieDirector">Director</label>
+                        <input type="text" class="form-control" id="movieDirector" placeholder="Director">
+                    </div>
+                    <button type="button" class="btn btn-dark" id="movieButton">Add Movie to List</button>
+                    <button type="button" class="btn btn-light" id="clearMovieButton">Clear Movie List</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <ul class="list-group" id="books">
+        </ul>
+    </div>
+    <div class="col">
+        <ul class="list-group" id="movies">
+        </ul>
+    </div>
+</div>
